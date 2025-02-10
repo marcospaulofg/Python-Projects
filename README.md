@@ -1,2 +1,2 @@
 # Python-Projects
-Projetos diversos em Python
+Projetos diversos em Python.
